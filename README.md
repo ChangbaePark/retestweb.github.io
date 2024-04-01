@@ -1,4 +1,3 @@
-# retestweb.github.io
 # 첫번째
 1. 강원도
 2. 경상도
